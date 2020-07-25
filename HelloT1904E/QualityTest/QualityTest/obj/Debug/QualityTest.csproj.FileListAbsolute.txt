@@ -1,7 +1,0 @@
-G:\DotNet\QualityTest\QualityTest\bin\Debug\QualityTest.exe.config
-G:\DotNet\QualityTest\QualityTest\bin\Debug\QualityTest.exe
-G:\DotNet\QualityTest\QualityTest\bin\Debug\QualityTest.pdb
-G:\DotNet\QualityTest\QualityTest\obj\Debug\QualityTest.csprojAssemblyReference.cache
-G:\DotNet\QualityTest\QualityTest\obj\Debug\QualityTest.csproj.CoreCompileInputs.cache
-G:\DotNet\QualityTest\QualityTest\obj\Debug\QualityTest.exe
-G:\DotNet\QualityTest\QualityTest\obj\Debug\QualityTest.pdb
